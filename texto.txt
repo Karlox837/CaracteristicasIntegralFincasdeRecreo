@@ -1,21 +1,26 @@
 UBICACIÓN 
-Departamento: Cerca al Hotel Las Higuanas 
-Sector: 
+Departamento: Antioquia 
+Sector: Llano
 
-CAPACIDAD: 20-25 (El costo es de acuerdo la cantidad de personas) 
+CAPACIDAD:  30-40
+(El costo es de acuerdo la cantidad de personas)
 
-COMODIDADES 
-Habitaciones: 4 (3 alcobas con baño y un salón) 
-Baños: 4 
-Tipo de cocina: sencilla 
+COMODIDADES
+
+Habitaciones: 5 (3 con baño, 2 baños sociales)
+Baños: 5
+Tipo de cocina: integral 
 Sala: si 
 Comedor: si 
-TV: -si 
-
+TV: si 
 
 ZONAS COMUNES 
-Piscina de adultos: si 
-Piscina de niños: no 
-Zona de asado: si 
-Cancha: no 
-Parqueadero: si 
+
+Piscina de adultos: si
+Piscina de niños: si
+Turco: no
+Jacuzzi: si
+Billar: si
+Zona de asado: si
+Kiosco: si 
+Parqueadero: si
